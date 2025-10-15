@@ -11,3 +11,6 @@ Version 1.1
 
 Version 1.2
 -Modified index.js file so the code is more understandable
+
+Version 1.3
+-Added Comments and Code to index.js file to make it easier to understand

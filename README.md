@@ -14,3 +14,6 @@ Version 1.2
 
 Version 1.3
 -Added Comments and Code to index.js file to make it easier to understand
+
+Version 1.4
+-Added links.txt file containing a link to the Virtual Server
